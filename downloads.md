@@ -41,7 +41,7 @@ For MM+ Version 1.02
 [Download on Google Drive](https://drive.google.com/file/d/1CTgtoiePAyNnq3WxSj0FXD_LZwp2u04h/view?usp=sharing
 )
 
-[Download on github without instructions](https://github.com/blueskythlikesclouds/DivaModLoader/releases)
+[Download on GitHub without instructions](https://github.com/blueskythlikesclouds/DivaModLoader/releases)
 
 ---------------------------------------
 
