@@ -1,6 +1,3 @@
-# Build settings
-markdown: kramdown
-theme: cayman
 # MM+FX Mod
 
 Download Line
