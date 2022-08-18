@@ -1,8 +1,8 @@
 # MM+FX Mod
 
-Download Line
+## [Downloads](https://team-mm-fx.github.io/downloads.html)
 
-###This mod is brought to you by Team MM+FX﻿
+### This mod is brought to you by Team MM+FX﻿
 (Consists of the most dedicated Project Diva fans from as long as a decade ago)
 
 We have a [Patreon](https://www.patreon.com/TeamMMFX) but it is completely optional and is to help motivate the creative team members hard work. Perks listed at Patreon.  https://www.patreon.com/TeamMMFX
