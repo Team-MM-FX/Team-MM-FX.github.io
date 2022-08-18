@@ -1,7 +1,8 @@
+---
 layout: page
 title: "MM+FX"
 permalink: /Home/
-
+---
 
 # [Downloads](https://team-mm-fx.github.io/downloads.html)
 
