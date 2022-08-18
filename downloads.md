@@ -43,6 +43,7 @@ For MM+ Version 1.02
 
 [Download on github without instructions](https://github.com/blueskythlikesclouds/DivaModLoader/releases)
 
+---------------------------------------
 
 ### Addons
 
