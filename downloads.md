@@ -2,7 +2,7 @@
 
 # MM+FX
 
-[home](https://team-mm-fx.github.io/)
+[Home](https://team-mm-fx.github.io/)
 
 # Downloads
 
