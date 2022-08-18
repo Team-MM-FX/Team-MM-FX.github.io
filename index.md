@@ -1,6 +1,6 @@
 # MM+FX
 
-# [Downloads](https://team-mm-fx.github.io/downloads.html/)
+# [Downloads](https://team-mm-fx.github.io/downloads.html)
 
 ### This mod is brought to you by Team MM+FX﻿
 (Consists of the most dedicated Project Diva fans from as long as a decade ago)
