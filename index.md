@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "MM+FX"
-permalink: /index/
 theme: jekyll-theme-cayman
 ---
 
