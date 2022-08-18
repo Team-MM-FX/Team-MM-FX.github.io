@@ -1,8 +1,4 @@
----
-layout: page
-title: "MM+FX"
-theme: jekyll-theme-cayman
----
+
 
 # [Downloads](https://team-mm-fx.github.io/Downloads/)
 
