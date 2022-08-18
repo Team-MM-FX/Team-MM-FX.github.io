@@ -6,11 +6,11 @@
 
 # Downloads
 
-### Version 2.01
+## Version 2.01
 
 For MM+ Version 1.02
 
-#### File 1 of 3 (Game data)
+### File 1 of 3 (Game data)
 
 > MMFX V2.1 for MM+ 1.02. Still requires files 2 of 3 and 3 of 3 to finish install.
 
@@ -20,7 +20,7 @@ For MM+ Version 1.02
 
 [Google Drive Mirror](https://drive.google.com/file/d/1RtwMQi7MV0lhxuVDz-GAPjgTdGfru6ye/view?usp=sharing)
 
-#### File 2 of 3 (Physics)
+### File 2 of 3 (Physics)
 
 > required to run the game
 
@@ -29,7 +29,7 @@ For MM+ Version 1.02
 [Download on Google Drive](https://drive.google.com/file/d/1KabOOgKEiLftAr_bT5NscuMqykUXv8j_/view?usp=sharing)
 
 
-#### File 3 of 3 (Diva Mod Loader and Instructions)
+### File 3 of 3 (Diva Mod Loader and Instructions)
 > Instructions on how to get the last part of the mod required called DivaModLoader. Made by a modder name Skyth who is not associated with Team MM+FX.
 
 > Includes 2 screenshots for you to verify you've placed all 3/3 files correctly.
@@ -44,9 +44,9 @@ For MM+ Version 1.02
 [Download on github without instructions](https://github.com/blueskythlikesclouds/DivaModLoader/releases)
 
 
-#### Addons
+### Addons
 
-##### No Physics Mod
+#### No Physics Mod
 > Allows you to play MMFX V2 without the need for File 2 of 3 installed. Physics will be terrible for 3DPVs however so be warned.
 
 [Download on Nexus](https://www.nexusmods.com/hatsunemikuprojectdivamegamixplus/mods/3?tab=files&file_id=29)
