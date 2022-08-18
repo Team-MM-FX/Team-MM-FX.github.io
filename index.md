@@ -1,4 +1,27 @@
 # Build settings
 markdown: kramdown
 theme: cayman
-# Hello World!
+# MM+FX Mod
+
+Download Line
+
+###This mod is brought to you by Team MM+FX﻿
+(Consists of the most dedicated Project Diva fans from as long as a decade ago)
+
+We have a [Patreon](https://www.patreon.com/TeamMMFX) but it is completely optional and is to help motivate the creative team members hard work. Perks listed at Patreon.  https://www.patreon.com/TeamMMFX
+
+ALL CREATIVE Content in this mod is made from scratch by our team members or permission granted for existing creations by individuals outside of our team.
+
+These mods however, are made by members outside of our team. They are,
+
+_DivaModLoader created by Skyth
+
+_Comfy & ScriptEditor by Samyuu_
+
+_Pfdtool by flatz__
+
+Without them our modpack would not work, thank you for the amazing stuff 🙏
+
+Our mods are always free to the public and REQUIRE YOU TO OWN THE OFFICIAL MEGAMIX+ PC VIP GAME. (If you bought base game, you will need to buy the additional songs DLC pack)
+
+## v2 details will be posted within the day 
