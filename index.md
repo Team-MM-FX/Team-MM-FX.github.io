@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "MM+FX"
-permalink: /Home/
+permalink: /index/
 ---
 
 # [Downloads](https://team-mm-fx.github.io/downloads.html)
