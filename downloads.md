@@ -2,6 +2,7 @@
 layout: page
 title: "MM+FX"
 permalink: /Downloads/
+theme: jekyll-theme-cayman
 ---
 
 # MM+FX

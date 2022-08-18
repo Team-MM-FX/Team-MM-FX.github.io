@@ -2,9 +2,10 @@
 layout: page
 title: "MM+FX"
 permalink: /index/
+theme: jekyll-theme-cayman
 ---
 
-# [Downloads](https://team-mm-fx.github.io/downloads.html)
+# [Downloads](https://team-mm-fx.github.io/Downloads/)
 
 ### This mod is brought to you by Team MM+FX﻿
 (Consists of the most dedicated Project Diva fans from as long as a decade ago)
