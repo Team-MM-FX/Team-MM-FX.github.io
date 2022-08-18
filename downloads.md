@@ -64,4 +64,6 @@ Password for the files is `HatsuneMiku39!@#`
 
 For MM+ Version 1.01
 
+#### File 1 of 3
+
 [Download on Nexus](https://www.nexusmods.com/hatsunemikuprojectdivamegamixplus/mods/3?tab=files&file_id=19)
