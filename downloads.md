@@ -1,11 +1,67 @@
+# MM+FX
+
 # Downloads
 
 ### Version 2.01
 
+For MM+ Version 1.02
+
 #### File 1 of 3 (Game data)
 
+[Download on Nexus](https://www.nexusmods.com/hatsunemikuprojectdivamegamixplus/mods/3?tab=files&file_id=31)
+
+[Download on Google Drive](https://drive.google.com/file/d/1RtwMQi7MV0lhxuVDz-GAPjgTdGfru6ye/view?usp=sharing)
+
+[Google Drive Mirror](https://drive.google.com/file/d/1RtwMQi7MV0lhxuVDz-GAPjgTdGfru6ye/view?usp=sharing)
 
 #### File 2 of 3 (Physics)
 
+[Download on Nexus](https://www.nexusmods.com/hatsunemikuprojectdivamegamixplus/mods/3?tab=files&file_id=14)
 
-#### File 3 of 3 (DML)
+[Download on Google Drive](https://drive.google.com/file/d/1KabOOgKEiLftAr_bT5NscuMqykUXv8j_/view?usp=sharing)
+
+
+#### File 3 of 3 (Diva Mod Loader and Instructions)
+
+[Download on Nexus](https://www.nexusmods.com/hatsunemikuprojectdivamegamixplus/mods/3?tab=files&file_id=22)
+
+[Download on Google Drive](https://drive.google.com/file/d/1CTgtoiePAyNnq3WxSj0FXD_LZwp2u04h/view?usp=sharing
+)
+
+[Download on github without instructions](https://github.com/blueskythlikesclouds/DivaModLoader/releases)
+
+
+#### Addons
+
+##### No Physics Mod
+> Allows you to play MMFX V2 without the need for File 2 of 3 installed. Physics will be terrible for 3DPVs however so be warned.
+
+[Download on Nexus](https://www.nexusmods.com/hatsunemikuprojectdivamegamixplus/mods/3?tab=files&file_id=29)
+
+[Download on Google Drive](https://drive.google.com/file/d/1cPfiVzPDrHkIBKKHxlpWfBAaHDMiwTA8/view?usp=sharing)
+
+#### Romanji Lyrics Mod
+> MMFX V2.0 has English lyrics as default. Add this to mods folder if you would like Romaji lyrics back.
+
+[Download on Nexus](https://www.nexusmods.com/hatsunemikuprojectdivamegamixplus/mods/3?tab=files&file_id=30)
+
+[Download on Google Drive](https://drive.google.com/file/d/1uhldPkBxkcw5_khlAEeSV43-HNqsg-Si/view?usp=sharing)
+
+
+### Version 2.00
+
+For MM+ Version 1.02
+
+#### File 1 of 3
+
+Password for the files is `HatsuneMiku39!@#`
+
+[Download on Nexus](https://www.nexusmods.com/hatsunemikuprojectdivamegamixplus/mods/3?tab=files&file_id=27)
+
+[Download on Google Drive](https://drive.google.com/file/d/1VE-HtdG83oT9cFGVHR10MAnkvjh_Ku7S/view?usp=sharing)
+
+### Version 1.00
+
+For MM+ Version 1.01
+
+[Download on Nexus](https://www.nexusmods.com/hatsunemikuprojectdivamegamixplus/mods/3?tab=files&file_id=19)
