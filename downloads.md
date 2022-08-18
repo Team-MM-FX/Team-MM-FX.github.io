@@ -1,3 +1,7 @@
+layout: page
+title: "MM+FX"
+permalink: /Downloads/
+
 # MM+FX
 
 # Downloads
