@@ -12,7 +12,9 @@ ALL CREATIVE Content in this mod is made from scratch by our team members or per
 These mods however, are made by members outside of our team. They are,
 
 _DivaModLoader created by Skyth_
+
 _Comfy & ScriptEditor by Samyuu_
+
 _Pfdtool by flatz__
 
 Without them our modpack would not work, thank you for the amazing stuff 🙏
