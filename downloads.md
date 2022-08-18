@@ -60,6 +60,7 @@ For MM+ Version 1.02
 
 [Download on Google Drive](https://drive.google.com/file/d/1uhldPkBxkcw5_khlAEeSV43-HNqsg-Si/view?usp=sharing)
 
+---------------------------------------
 
 ### Version 2.00
 
@@ -72,6 +73,8 @@ Password for the files is `HatsuneMiku39!@#`
 [Download on Nexus](https://www.nexusmods.com/hatsunemikuprojectdivamegamixplus/mods/3?tab=files&file_id=27)
 
 [Download on Google Drive](https://drive.google.com/file/d/1VE-HtdG83oT9cFGVHR10MAnkvjh_Ku7S/view?usp=sharing)
+
+---------------------------------------
 
 ### Version 1.00
 
