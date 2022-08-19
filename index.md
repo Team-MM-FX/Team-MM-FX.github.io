@@ -15,7 +15,7 @@ _DivaModLoader created by Skyth_
 
 _Comfy & ScriptEditor by Samyuu_
 
-_Pfdtool by flatz__
+_Pfdtool by flatz_
 
 Without them our modpack would not work, thank you for the amazing stuff 🙏
 
