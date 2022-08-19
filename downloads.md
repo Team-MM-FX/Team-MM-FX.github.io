@@ -6,7 +6,7 @@
 
 # Downloads
 
-## Version 2.01
+## Version 2.1
 
 For MM+ Version 1.02
 
@@ -63,6 +63,6 @@ For MM+ Version 1.02
 
 ---------------------------------------
 
-### [Older Versions](https://team-mm-fx.github.io/downloads_old.md)
+### [Older Versions](https://team-mm-fx.github.io/downloads_old.html)
 
 
