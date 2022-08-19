@@ -19,6 +19,14 @@ For MM+ Version 1.02
 
 [DivaModLoader Required](https://github.com/blueskythlikesclouds/DivaModLoader/releases)
 
+### Clean Install version Lite (9GB)
+> A Smaller Version of the MM+FX Mod, however 3D PVs will be broken.
+
+[Download on Google Drive](https://drive.google.com/file/d/14UMvN5egPK1pD0lRFOXEFlmuyk04_PUP/view?usp=sharing)
+
+[DivaModLoader Required](https://github.com/blueskythlikesclouds/DivaModLoader/releases) 
+
+
 ---------
 
 ### Upgrade Install Version
@@ -26,7 +34,7 @@ For MM+ Version 1.02
 
 #### File 1 of 3 (Game data, 9GB) 
 
-> MMFX V2.2 for MM+ 1.02. Still requires files 2 of 3 and 3 of 3 to finish install.
+> MMFX V2.2 for MM+ 1.02. Still requires files 2 of 3 and 3 of 3 to finish install. When upgradging from a previous version, download only this file.s
 
 
 [Download on Google Drive](https://drive.google.com/file/d/1SHCq-RBM1FX5yO4LfWOc8rrFWJgDzS1F/view?usp=sharing)
@@ -37,7 +45,7 @@ For MM+ Version 1.02
 
 #### File 2 of 3 (Physics, 17GB)
 
-> Eequired to run the game. Does not need to be downloaded when updating
+> Required to run the game. Does not need to be downloaded when updating
 
 
 [Download on Google Drive](https://drive.google.com/file/d/1BMHHldKW92X5ofCJuIjOkUyTCBLaEXmk/view?usp=sharing)
@@ -62,14 +70,14 @@ For MM+ Version 1.02
 
 ### Addons
 
-#### No Physics Mod
+#### No Physics Mod (0.7KB)
 > Allows you to play MMFX V2 without the need for File 2 of 3 installed. Physics will be terrible for 3DPVs however so be warned.
 
 [Download on Nexus](https://www.nexusmods.com/hatsunemikuprojectdivamegamixplus/mods/3?tab=files&file_id=29)
 
 [Download on Google Drive](https://drive.google.com/file/d/1cPfiVzPDrHkIBKKHxlpWfBAaHDMiwTA8/view?usp=sharing)
 
-#### Romanji Lyrics Mod
+#### Romanji Lyrics Mod (6KB) 
 > MMFX V2.0 has English lyrics as default. Add this to mods folder if you would like Romaji lyrics back.
 
 [Download on Nexus](https://www.nexusmods.com/hatsunemikuprojectdivamegamixplus/mods/3?tab=files&file_id=30)
