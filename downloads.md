@@ -6,34 +6,44 @@
 
 # Downloads
 
-## Version 2.1
+## Version 2.2
 
 For MM+ Version 1.02
 
-### File 1 of 3 (Game data)
+### Clean Install version
+> Full Version of the MM+FX Mod thats easier to install at the expense of being larger in size.
 
-> MMFX V2.1 for MM+ 1.02. Still requires files 2 of 3 and 3 of 3 to finish install.
-
-[Download on Nexus](https://www.nexusmods.com/hatsunemikuprojectdivamegamixplus/mods/3?tab=files&file_id=31)
-
-[Download on Google Drive](https://drive.google.com/file/d/1RtwMQi7MV0lhxuVDz-GAPjgTdGfru6ye/view?usp=sharing)
-
-[Google Drive Mirror](https://drive.google.com/file/d/1RtwMQi7MV0lhxuVDz-GAPjgTdGfru6ye/view?usp=sharing)
-
-### File 2 of 3 (Physics)
-
-> required to run the game
-
-[Download on Nexus](https://www.nexusmods.com/hatsunemikuprojectdivamegamixplus/mods/3?tab=files&file_id=14)
-
-[Download on Google Drive](https://drive.google.com/file/d/1KabOOgKEiLftAr_bT5NscuMqykUXv8j_/view?usp=sharing)
+[Download on Google Drive](https://drive.google.com/file/d/1TaMwthu6GkIxAaCQ3dVOmqBpCdodqauh/view?usp=sharing)
 
 
-### File 3 of 3 (Diva Mod Loader and Instructions)
+### Upgrade Install Version
+> Harder to install, but smaller in size.
+
+#### File 1 of 3 (Game data) 
+
+> MMFX V2.2 for MM+ 1.02. Still requires files 2 of 3 and 3 of 3 to finish install.
+
+
+[Download on Google Drive](https://drive.google.com/file/d/1SHCq-RBM1FX5yO4LfWOc8rrFWJgDzS1F/view?usp=sharing)
+
+[Google Drive Mirror](https://drive.google.com/file/d/1YfnNLDYJNrC3LezWR3-v5n9dPGjPTvQ5/view?usp=sharing)
+
+[Other Google Drive Mirror](https://drive.google.com/file/d/1tG8NDtYnT2DRLRW7S3Q4a2_3EIjqh7Gd/view?usp=sharing)
+
+#### File 2 of 3 (Physics)
+
+> Eequired to run the game. Does not need to be downloaded when updating
+
+
+[Download on Google Drive](https://drive.google.com/file/d/1BMHHldKW92X5ofCJuIjOkUyTCBLaEXmk/view?usp=sharing)
+
+[Google Drive Mirror](https://drive.google.com/file/d/1JR8A5MPjwiZpqlrU733D729q_U6IyMa5/view?usp=sharing)
+
+
+#### File 3 of 3 (Diva Mod Loader and Instructions)
 > Instructions on how to get the last part of the mod required called DivaModLoader. Made by a modder name Skyth who is not associated with Team MM+FX.
 
 > Includes 2 screenshots for you to verify you've placed all 3/3 files correctly.
-
 
 
 [Download on Nexus](https://www.nexusmods.com/hatsunemikuprojectdivamegamixplus/mods/3?tab=files&file_id=22)
