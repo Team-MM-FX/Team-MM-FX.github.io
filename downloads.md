@@ -10,11 +10,14 @@
 
 For MM+ Version 1.02
 
+---------
+
 ### Clean Install version
 > Full Version of the MM+FX Mod thats easier to install at the expense of being larger in size.
 
 [Download on Google Drive](https://drive.google.com/file/d/1TaMwthu6GkIxAaCQ3dVOmqBpCdodqauh/view?usp=sharing)
 
+---------
 
 ### Upgrade Install Version
 > Harder to install, but smaller in size.
