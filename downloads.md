@@ -22,7 +22,7 @@ For MM+ Version 1.02
 ### Clean Install version Lite (9GB)
 > A Smaller Version of the MM+FX Mod, however 3D PVs will be broken.
 
-[Download on Google Drive](https://drive.google.com/file/d/14UMvN5egPK1pD0lRFOXEFlmuyk04_PUP/view?usp=sharing)
+[Download on Google Drive](https://drive.google.com/file/d/1ye0DAhVlJhBoK-LAFnBQaM9EasfWoNOD/view?usp=sharing)
 
 [DivaModLoader Required](https://github.com/blueskythlikesclouds/DivaModLoader/releases) 
 
