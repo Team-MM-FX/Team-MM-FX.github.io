@@ -12,7 +12,7 @@ For MM+ Version 1.02
 
 ---------
 
-### Clean Install version
+### Clean Install version (26GB)
 > Full Version of the MM+FX Mod thats easier to install at the expense of being larger in size.
 
 [Download on Google Drive](https://drive.google.com/file/d/1TaMwthu6GkIxAaCQ3dVOmqBpCdodqauh/view?usp=sharing)
@@ -24,7 +24,7 @@ For MM+ Version 1.02
 ### Upgrade Install Version
 > Harder to install, but smaller in size.
 
-#### File 1 of 3 (Game data) 
+#### File 1 of 3 (Game data, 9GB) 
 
 > MMFX V2.2 for MM+ 1.02. Still requires files 2 of 3 and 3 of 3 to finish install.
 
@@ -35,7 +35,7 @@ For MM+ Version 1.02
 
 [Other Google Drive Mirror](https://drive.google.com/file/d/1tG8NDtYnT2DRLRW7S3Q4a2_3EIjqh7Gd/view?usp=sharing)
 
-#### File 2 of 3 (Physics)
+#### File 2 of 3 (Physics, 17GB)
 
 > Eequired to run the game. Does not need to be downloaded when updating
 
