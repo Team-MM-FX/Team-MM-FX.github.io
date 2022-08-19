@@ -5,7 +5,7 @@
 ### This mod is brought to you by Team MM+FX﻿
 (Consists of the most dedicated Project Diva fans from as long as a decade ago)
 
-We have a [Patreon](https://www.patreon.com/TeamMMFX) but it is completely optional and is to help motivate the creative team members hard work. Perks listed at Patreon.  [https://www.patreon.com/TeamMMFX]https://www.patreon.com/TeamMMFX
+We have a [Patreon](https://www.patreon.com/TeamMMFX) but it is completely optional and is to help motivate the creative team members hard work. Perks listed at Patreon.  [https://www.patreon.com/TeamMMFX](https://www.patreon.com/TeamMMFX)
 
 ALL CREATIVE Content in this mod is made from scratch by our team members or permission granted for existing creations by individuals outside of our team.
 
