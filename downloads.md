@@ -72,7 +72,7 @@ For MM+ Version 1.02
 
 [Download on Google Drive](https://drive.google.com/file/d/1cPfiVzPDrHkIBKKHxlpWfBAaHDMiwTA8/view?usp=sharing)
 
-#### Romanji Lyrics Mod (6KB) 
+#### Romaji Lyrics Mod (6KB) 
 > MMFX V2.0 has English lyrics as default. Add this to mods folder if you would like Romaji lyrics back.
 
 [Download on Nexus](https://www.nexusmods.com/hatsunemikuprojectdivamegamixplus/mods/3?tab=files&file_id=30)
