@@ -12,6 +12,9 @@ For MM+ Version 1.02
 
 ---------
 
+## Single File Downloads
+> Download these if you're playing MM+FX for the first time
+
 ### Clean Install version (26GB)
 > Full Version of the MM+FX Mod thats easier to install at the expense of being larger in size.
 
@@ -30,27 +33,19 @@ For MM+ Version 1.02
 ---------
 
 ### Upgrade Install Version
-> Harder to install, but smaller in size.
+> Download File 1 of 3 if you are upgrading from a previous version MM+FX
 
 #### File 1 of 3 (Game data, 9GB) 
 
 > MMFX V2.2 for MM+ 1.02. Still requires files 2 of 3 and 3 of 3 to finish install. When upgradging from a previous version, download only this file.s
 
-
-[Download on Google Drive](https://drive.google.com/file/d/1SHCq-RBM1FX5yO4LfWOc8rrFWJgDzS1F/view?usp=sharing)
-
-[Google Drive Mirror](https://drive.google.com/file/d/1YfnNLDYJNrC3LezWR3-v5n9dPGjPTvQ5/view?usp=sharing)
-
-[Other Google Drive Mirror](https://drive.google.com/file/d/1tG8NDtYnT2DRLRW7S3Q4a2_3EIjqh7Gd/view?usp=sharing)
+[Download on Google Drive](https://drive.google.com/file/d/1mUE0oiOkw7xuN-E4yQHJwSYA2oYvWiqt/view?usp=sharing)
 
 #### File 2 of 3 (Physics, 17GB)
 
 > Required to run the game. Does not need to be downloaded when updating
 
-
 [Download on Google Drive](https://drive.google.com/file/d/1BMHHldKW92X5ofCJuIjOkUyTCBLaEXmk/view?usp=sharing)
-
-[Google Drive Mirror](https://drive.google.com/file/d/1JR8A5MPjwiZpqlrU733D729q_U6IyMa5/view?usp=sharing)
 
 
 #### File 3 of 3 (Diva Mod Loader and Instructions)
