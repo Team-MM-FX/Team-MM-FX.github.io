@@ -6,74 +6,73 @@
 
 # Downloads
 
-## Version 2.2
+## Version 2.3
 
 For MM+ Version 1.02
 
 ---------
 
-## Single File Downloads
-> Download these if you're playing MM+FX for the first time
 
-### Clean Install version (26GB)
-> Full Version of the MM+FX Mod thats easier to install at the expense of being larger in size.
+### MM+FX V2.3 Full Version (26GB)
+> Full Version of the MM+FX Mod.
 
-[Download on Google Drive](https://drive.google.com/file/d/1TaMwthu6GkIxAaCQ3dVOmqBpCdodqauh/view?usp=sharing)
+#### Part 1
+
+[Download on Nexus](https://www.nexusmods.com/hatsunemikuprojectdivamegamixplus/mods/3?tab=files&file_id=46)
+
+[Download on Google Drive](https://drive.google.com/file/d/1mUWvtPX7mwtYR3pnKioBSBBxE8uCGOpx/view?usp=sharing)
+
+#### Part 2
+
+[Download on Nexus](https://www.nexusmods.com/hatsunemikuprojectdivamegamixplus/mods/3?tab=files&file_id=47)
+
+[Download on Google Drive](https://drive.google.com/file/d/1wmXxwES2JzcaNwbylY8vtjzjjc_H3aEb/view?usp=sharing)
 
 [DivaModLoader Required](https://github.com/blueskythlikesclouds/DivaModLoader/releases)
 
-### Clean Install version Lite (9GB)
+### MM+FX V2.3 Lite Version (9GB)
 > A Smaller Version of the MM+FX Mod, however 3D PVs will be broken.
 
-[Download on Google Drive](https://drive.google.com/file/d/1ye0DAhVlJhBoK-LAFnBQaM9EasfWoNOD/view?usp=sharing)
+Google Drive link coming soon
+
+[Download on Nexus](https://www.nexusmods.com/hatsunemikuprojectdivamegamixplus/mods/3?tab=files&file_id=49)
 
 [DivaModLoader Required](https://github.com/blueskythlikesclouds/DivaModLoader/releases) 
 
 
 ---------
 
-### Upgrade Install Version
-> Download File 1 of 3 if you are upgrading from a previous version MM+FX
+## Update Files
 
-#### File 1 of 3 (Game data, 9GB) 
+#### MM+FX V2.3 Patch Files **ONLY FOR FULL VERSION PLAYERS OF 2.2** (1.9GB)
 
-> MMFX V2.2 for MM+ 1.02. Still requires files 2 of 3 and 3 of 3 to finish install. When upgradging from a previous version, download only this file.s
+> Contains multiple fixes to the modpack including Audio balance and chart syncs. Added Yeah, as if back into the game (EDIT 3DPV). You must add this folder in mod folder and say yes to replace all. DO NOT USE THIS PATCH IF YOU RUNNING LITE VERSION.
 
-[Download on Google Drive](https://drive.google.com/file/d/1mUE0oiOkw7xuN-E4yQHJwSYA2oYvWiqt/view?usp=sharing)
+[Download on Nexus](https://www.nexusmods.com/hatsunemikuprojectdivamegamixplus/mods/3?tab=files&file_id=44)
 
-#### File 2 of 3 (Physics, 17GB)
+[Download on Google Drive](https://drive.google.com/file/d/1RKiKqOcrPVnFKdIcvbf1c9sGk2lV8myC/view?usp=sharing)
 
-> Required to run the game. Does not need to be downloaded when updating
+#### MM+FX V2.3 Patch Files **ONLY FOR LITE VERSION PLAYERS OF 2.2** (1.9GB)
 
-[Download on Google Drive](https://drive.google.com/file/d/1BMHHldKW92X5ofCJuIjOkUyTCBLaEXmk/view?usp=sharing)
+> Contains multiple fixes to the modpack including Audio balance and chart syncs. Added Yeah, as if back into the game (EDIT 3DPV) You must add this folder in mod folder and say yes to replace all. DO NOT USE THIS PATCH IF YOU RUNNING FULL VERSION.
 
+[Download on Nexus](https://www.nexusmods.com/hatsunemikuprojectdivamegamixplus/mods/3?tab=files&file_id=48)
 
-#### File 3 of 3 (Diva Mod Loader and Instructions)
-> Instructions on how to get the last part of the mod required called DivaModLoader. Made by a modder name Skyth who is not associated with Team MM+FX.
-
-> Includes 2 screenshots for you to verify you've placed all 3/3 files correctly.
-
-
-[Download on Nexus](https://www.nexusmods.com/hatsunemikuprojectdivamegamixplus/mods/3?tab=files&file_id=22)
-
-[Download on Google Drive](https://drive.google.com/file/d/1CTgtoiePAyNnq3WxSj0FXD_LZwp2u04h/view?usp=sharing
-)
-
-[Download on GitHub without instructions](https://github.com/blueskythlikesclouds/DivaModLoader/releases)
+[Download on Google Drive](https://drive.google.com/file/d/1Qol3KscY-FmYPjg6HgDz5sBp4y2iCR-2/view?usp=sharing)
 
 ---------------------------------------
 
 ### Addons
 
-#### No Physics Mod (0.7KB)
-> Allows you to play MMFX V2 without the need for File 2 of 3 installed. Physics will be terrible for 3DPVs however so be warned.
+#### Blackout PV (For epileptic prone players) ALL SONGS including customs (631KB)
+> Place in mods folder. Once active, the following will happen. ALL 3DPVs will have 0 effects/stages/animations. Only camera movement and the Vocaloid will show. Vocaloid will be T-Posing entire time. ALL 3DPV will either be black screen OR show T-POSE
 
-[Download on Nexus](https://www.nexusmods.com/hatsunemikuprojectdivamegamixplus/mods/3?tab=files&file_id=29)
+[Download on Nexus](https://www.nexusmods.com/hatsunemikuprojectdivamegamixplus/mods/3?tab=files&file_id=45)
 
-[Download on Google Drive](https://drive.google.com/file/d/1cPfiVzPDrHkIBKKHxlpWfBAaHDMiwTA8/view?usp=sharing)
+[Download on Google Drive](https://drive.google.com/file/d/1odyn_vsWn7YVKVh2K8zymCoFIMHLu1JG/view?usp=sharing)
 
 #### Romaji Lyrics Mod (6KB) 
-> MMFX V2.0 has English lyrics as default. Add this to mods folder if you would like Romaji lyrics back.
+> MM+FX has English lyrics as default. Add this to mods folder if you would like Romaji lyrics back.
 
 [Download on Nexus](https://www.nexusmods.com/hatsunemikuprojectdivamegamixplus/mods/3?tab=files&file_id=30)
 

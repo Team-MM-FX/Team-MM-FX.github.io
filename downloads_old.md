@@ -4,6 +4,30 @@
 
 [Home](https://team-mm-fx.github.io/) | [Downloads](https://team-mm-fx.github.io/downloads.html) | [Discord](https://discord.gg/KUJJCs2ZDA)
 
+## Version 2.2
+
+For MM+ Version 1.02
+
+## Single File Downloads
+> Download these if you're playing MM+FX for the first time
+
+### Clean Install version (26GB)
+> Full Version of the MM+FX Mod thats easier to install at the expense of being larger in size.
+
+[Download on Google Drive](https://drive.google.com/file/d/1TaMwthu6GkIxAaCQ3dVOmqBpCdodqauh/view?usp=sharing)
+
+[DivaModLoader Required](https://github.com/blueskythlikesclouds/DivaModLoader/releases)
+
+### Clean Install version Lite (9GB)
+> A Smaller Version of the MM+FX Mod, however 3D PVs will be broken.
+
+[Download on Google Drive](https://drive.google.com/file/d/1ye0DAhVlJhBoK-LAFnBQaM9EasfWoNOD/view?usp=sharing)
+
+[DivaModLoader Required](https://github.com/blueskythlikesclouds/DivaModLoader/releases) 
+
+
+---------------------------------------
+
 ## Version 2.1
 
 For MM+ Version 1.02
