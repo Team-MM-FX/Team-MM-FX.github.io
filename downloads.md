@@ -14,7 +14,7 @@ For MM+ Version 1.02
 
 
 ### MM+FX V2.3 Full Version (26GB)
-> Full Version of the MM+FX Mod.
+> Full Version of the MM+FX Mod. If you are updating from v2.2 scroll below for a smaller update file.
 
 #### Part 1
 
@@ -31,7 +31,7 @@ For MM+ Version 1.02
 [DivaModLoader Required](https://github.com/blueskythlikesclouds/DivaModLoader/releases)
 
 ### MM+FX V2.3 Lite Version (9GB)
-> A Smaller Version of the MM+FX Mod, however 3D PVs will be broken.
+> A Smaller Version of the MM+FX Mod, however 3D PVs will be broken. If you are updating from v2.2 scroll below for a smaller update file.
 
 Google Drive link coming soon
 
