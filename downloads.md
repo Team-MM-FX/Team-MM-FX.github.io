@@ -8,6 +8,12 @@
 
 ## Version 2.3
 
+### HOTFIX FOR JACKPOT SAD GIRL
+> Replace the oldman.dll in /mods/projectdivamfx
+
+[Download on Google Drive](https://drive.google.com/file/d/1YoMe6IRKzuPqQx-FFrs3kr2OHXcxXd3s/view?usp=sharing)
+
+
 For MM+ Version 1.02
 
 ---------
