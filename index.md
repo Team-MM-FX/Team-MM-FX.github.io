@@ -1,6 +1,6 @@
 # MM+FX
 
-[Home](https://team-mm-fx.github.io/) | [Downloads](https://team-mm-fx.github.io/downloads.html) | [Discord](https://discord.gg/KUJJCs2ZDA)
+[Home](https://team-mm-fx.github.io/) | [Downloads](https://team-mm-fx.github.io/downloads.html) | [Discord](https://discord.gg/mmfx)
 
 ### This mod is brought to you by Team MM+FX﻿
 (Consists of the most dedicated Project Diva fans from as long as a decade ago)
