@@ -21,5 +21,8 @@ Without them our modpack would not work, thank you for the amazing stuff 🙏
 
 Our mods are always free to the public and REQUIRE YOU TO OWN THE OFFICIAL MEGAMIX+ PC VIP GAME. (If you bought base game, you will need to buy the additional songs DLC pack)
 
+![MM+FX](https://discordapp.com/api/guilds/[1008898200184291389]/widget.png?style=banner3)
+
+
 ### Note: Our mod creates an alternative save data so it does not impact future DLC songs Sega may release. If you remove our mod, you will see your vanilla save data get loaded again.
 
